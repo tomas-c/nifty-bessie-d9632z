@@ -11,7 +11,7 @@ export default function DashboardLayout(props: DashboardLayoutProps) {
   const { modal, children } = props;
   return (
     <div>
-      <h2>Dashboard page layout</h2>
+      <h2>Dashboard layout</h2>
 
       <div>
         <Link href="/test/dashboard">Go to /test/dashboard</Link>
